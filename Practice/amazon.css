@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0;
+  color: white;
+}
+.nav {
+  height: 60px;
+  background-color: #0f1111;
+}
+button {
+  background-color: #f08804;
+}
+.Logo {
+  color: #f08804;
+  size: 25px;
+}
+a {
+  margin-right: 200px;
+}
